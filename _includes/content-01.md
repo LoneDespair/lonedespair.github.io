@@ -16,7 +16,7 @@ Experiences here
 
 
 ### 🪜LadderClimber
-<img src="/image/ladder_climber-01.png" alt="Image" height="300"/>
+<p><img src="/image/ladder_climber-01.png" alt="Image" height="300"/></p>
 LadderClimber is my first ever project created on 2019, and it was made using Godot Game Engine
 
 
