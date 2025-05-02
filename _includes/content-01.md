@@ -12,7 +12,12 @@ Greetings
     <img src="/image/custom_goban-02.png" alt="Image 2" height="300"/>
 </p>
 
-
+### ⚔️DeathShot
+<p align="left">
+    <img src="/image/death_shot-01.png" alt="Image 1" height="300"/>
+    <img src="/image/death_shot-02.png" alt="Image 1" height="300"/>
+    <img src="/image/death_shot-03.png" alt="Image 1" height="300"/>
+</p>
 
 ### 🔨Word Builder
 <p align="left">
