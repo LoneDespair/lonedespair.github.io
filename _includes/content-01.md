@@ -11,6 +11,7 @@ Greetings
     <img src="/image/custom_goban-01.png" alt="Image 1" height="300"/>
     <img src="/image/custom_goban-02.png" alt="Image 2" height="300"/>
 </p>
+* [Visit the project here](https://store.steampowered.com/app/2223570/Custom_Goban/)
 
 ### ⚔️DeathShot
 <p align="left">
