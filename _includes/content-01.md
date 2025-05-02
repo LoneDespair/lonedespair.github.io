@@ -9,7 +9,7 @@ Experiences here
 
 ### Word Builder
 
-<img src="../image/word_builder-01.png" alt="Image" height="300"/>
+<img src="/image/word_builder-01.png" alt="Image" height="300"/>
 
 
 ### 🪜LadderClimber
