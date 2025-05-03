@@ -1,8 +1,9 @@
-## General Overview
+## About me
 
-Greetings
-
-## 
+I began as a self-taught developer in 2019, with a strong passion for
+software and networking technologies, and in order to solidify my
+foundational skills, I’ve decided to pursue Computer Science at Bicol
+University. 
 
 ## Projects
 
